@@ -1,0 +1,197 @@
+[
+  {
+    "segments": [
+      {
+        "chars": [
+          {
+            "character": "2",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "4",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "6",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "8",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "1",
+            "bottom": true,
+            "type": true
+          },
+          {
+            "character": "3",
+            "bottom": true,
+            "type": true
+          },
+          {
+            "character": "5",
+            "bottom": true,
+            "type": true
+          },
+          {
+            "character": "7",
+            "bottom": true,
+            "type": true
+          }
+        ],
+        "count": 20
+      }
+    ],
+    "count": 1
+  },
+  {
+    "segments": [
+      {
+        "chars": [
+          {
+            "character": "A",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "E",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "I",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "O",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "Q",
+            "bottom": false,
+            "type": true
+          },
+          {
+            "character": "W",
+            "bottom": false,
+            "type": true
+          },
+          {
+            "character": "T",
+            "bottom": false,
+            "type": true
+          },
+          {
+            "character": "R",
+            "bottom": false,
+            "type": true
+          }
+        ],
+        "count": 20
+      }
+    ],
+    "count": 1
+  },
+  {
+    "segments": [
+      {
+        "chars": [
+          {
+            "character": "2",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "4",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "6",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "8",
+            "bottom": true,
+            "type": false
+          },
+          {
+            "character": "1",
+            "bottom": true,
+            "type": true
+          },
+          {
+            "character": "3",
+            "bottom": true,
+            "type": true
+          },
+          {
+            "character": "5",
+            "bottom": true,
+            "type": true
+          },
+          {
+            "character": "7",
+            "bottom": true,
+            "type": true
+          }
+        ],
+        "count": 3
+      },
+      {
+        "chars": [
+          {
+            "character": "A",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "E",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "I",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "O",
+            "bottom": false,
+            "type": false
+          },
+          {
+            "character": "Q",
+            "bottom": false,
+            "type": true
+          },
+          {
+            "character": "W",
+            "bottom": false,
+            "type": true
+          },
+          {
+            "character": "T",
+            "bottom": false,
+            "type": true
+          },
+          {
+            "character": "R",
+            "bottom": false,
+            "type": true
+          }
+        ],
+        "count": 3
+      }
+    ],
+    "count": 5
+  }
+]
